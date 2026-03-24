@@ -1,0 +1,21 @@
+{
+  "name": "gha-workflow-skills",
+  "version": "0.1.0",
+  "description": "Cross-tool agent skills for GitHub Actions workflow automation",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timothyfroehlich/gha-workflow-skills.git"
+  },
+  "keywords": [
+    "agent-skills",
+    "github-actions",
+    "ci-cd",
+    "mcp",
+    "claude-code",
+    "gemini-cli",
+    "antigravity",
+    "codex"
+  ],
+  "author": "Tim Froehlich",
+  "license": "MIT"
+}
